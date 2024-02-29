@@ -15,8 +15,8 @@ namespace WinFormsApp1
                 for (int oszlop = 0; oszlop < 10; oszlop++)
                 {
                     SzinezodoGomb b = new SzinezodoGomb();
-                    b.Height = méret;
-                    b.Width = méret;
+                    //b.Height = méret;
+                    //b.Width = méret;
                     b.Left = oszlop * méret;
                     //ClientRectangle.Width / 2 - méret / 2; //gomb középre, bal felsõ saroktól számítja ezért a kivonás
                     b.Top = sor * méret;
