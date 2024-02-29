@@ -8,7 +8,7 @@ namespace WinFormsApp1
 {
     internal class SzamlaloGomb : Button
     {
-        int szam = 2;
+        int szam = 0;
         public SzamlaloGomb()
         {
             Width = 30;
@@ -18,7 +18,7 @@ namespace WinFormsApp1
 
         private void SzamlaloGomb_MouseClick(object? sender, MouseEventArgs e)
         {
-            szam =szam*szam;
+            szam++;
             Text = szam.ToString();
         }
     }
