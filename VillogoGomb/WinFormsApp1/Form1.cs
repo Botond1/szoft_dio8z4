@@ -14,7 +14,7 @@ namespace WinFormsApp1
             {
                 for (int oszlop = 0; oszlop < 10; oszlop++)
                 {
-                    SzinezodoGomb b = new SzinezodoGomb();
+                    SzamlaloGomb b = new SzamlaloGomb();
                     b.Height = méret;
                     b.Width = méret;
                     b.Left = oszlop * méret;
