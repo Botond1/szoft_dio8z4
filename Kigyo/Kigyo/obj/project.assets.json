@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\small\\Source\\Repos\\szoft_dio8z4\\VillogoGomb\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\small\\Source\\Repos\\szoft_dio8z4\\VillogoGomb\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\small\\source\\repos\\szoft_dio8z4\\Kigyo\\Kigyo\\Kigyo.csproj",
+      "projectName": "Kigyo",
+      "projectPath": "C:\\Users\\small\\source\\repos\\szoft_dio8z4\\Kigyo\\Kigyo\\Kigyo.csproj",
       "packagesPath": "C:\\Users\\small\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\small\\Source\\Repos\\szoft_dio8z4\\VillogoGomb\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\small\\source\\repos\\szoft_dio8z4\\Kigyo\\Kigyo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\small\\AppData\\Roaming\\NuGet\\NuGet.Config",

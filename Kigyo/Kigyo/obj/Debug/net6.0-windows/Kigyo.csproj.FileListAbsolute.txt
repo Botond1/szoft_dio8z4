@@ -1,0 +1,16 @@
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\bin\Debug\net6.0-windows\Kigyo.exe
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\bin\Debug\net6.0-windows\Kigyo.deps.json
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\bin\Debug\net6.0-windows\Kigyo.runtimeconfig.json
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\bin\Debug\net6.0-windows\Kigyo.dll
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\bin\Debug\net6.0-windows\Kigyo.pdb
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\Kigyo.Form1.resources
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\Kigyo.csproj.GenerateResource.cache
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\Kigyo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\Kigyo.AssemblyInfoInputs.cache
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\Kigyo.AssemblyInfo.cs
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\Kigyo.csproj.CoreCompileInputs.cache
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\Kigyo.dll
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\refint\Kigyo.dll
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\Kigyo.pdb
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\Kigyo.genruntimeconfig.cache
+C:\Users\small\source\repos\szoft_dio8z4\Kigyo\Kigyo\obj\Debug\net6.0-windows\ref\Kigyo.dll
