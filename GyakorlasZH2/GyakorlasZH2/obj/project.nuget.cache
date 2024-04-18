@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4FeH1ZUhf4Q9EUxUKVcwoVE6IdyWN8UwFwdj3ecV03LQup6pXawqua1JFy8CuwFSVwlVuvhBHOYVGXG3VW3fKQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\small\\Documents\\git\\GyakorlasZH2\\GyakorlasZH2\\GyakorlasZH2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\small\\.nuget\\packages\\csvhelper\\31.0.4\\csvhelper.31.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
