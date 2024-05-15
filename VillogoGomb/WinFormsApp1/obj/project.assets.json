@@ -1,0 +1,79 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0-windows7.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    "net6.0-windows7.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\small\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\dio8z4\\Downloads\\Repos\\VillogoGomb\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectName": "WinFormsApp1",
+      "projectPath": "C:\\Users\\dio8z4\\Downloads\\Repos\\VillogoGomb\\WinFormsApp1\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\dio8z4\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\dio8z4\\Downloads\\Repos\\VillogoGomb\\WinFormsApp1\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\small\\Source\\Repos\\szoft_dio8z4\\VillogoGomb\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectName": "WinFormsApp1",
+      "projectPath": "C:\\Users\\small\\Source\\Repos\\szoft_dio8z4\\VillogoGomb\\WinFormsApp1\\WinFormsApp1.csproj",
+      "packagesPath": "C:\\Users\\small\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\small\\Source\\Repos\\szoft_dio8z4\\VillogoGomb\\WinFormsApp1\\obj\\",
+>>>>>>> 49bdfcbfec58ff04bcbb682fc75c7a2fd9b4712b
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\small\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0-windows7.0": {
+          "targetAlias": "net6.0-windows",
+          "projectReferences": {}
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0-windows7.0": {
+        "targetAlias": "net6.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

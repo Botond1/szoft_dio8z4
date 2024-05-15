@@ -1,0 +1,17 @@
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\bin\Debug\net6.0-windows\10ora.exe
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\bin\Debug\net6.0-windows\10ora.deps.json
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\bin\Debug\net6.0-windows\10ora.runtimeconfig.json
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\bin\Debug\net6.0-windows\10ora.dll
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\bin\Debug\net6.0-windows\10ora.pdb
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\10ora.csproj.AssemblyReference.cache
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\_10ora.Form1.resources
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\10ora.csproj.GenerateResource.cache
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\10ora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\10ora.AssemblyInfoInputs.cache
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\10ora.AssemblyInfo.cs
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\10ora.csproj.CoreCompileInputs.cache
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\10ora.dll
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\refint\10ora.dll
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\10ora.pdb
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\10ora.genruntimeconfig.cache
+C:\Users\dio8z4\Downloads\Repos\10ora\10ora\obj\Debug\net6.0-windows\ref\10ora.dll

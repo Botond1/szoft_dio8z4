@@ -1,0 +1,14 @@
+{
+  "version": 2,
+<<<<<<< HEAD
+  "dgSpecHash": "O5zrjm4a6Vr/Z9w10/AvoMKWDtGovFq3bNw0FyIma7CJHlNkYDoNHJKUsy7GshnJ2ZsnzigHscuksGW+yfPhxQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dio8z4\\Downloads\\Repos\\VillogoGomb\\WinFormsApp1\\WinFormsApp1.csproj",
+=======
+  "dgSpecHash": "hl0I/oF3SZ6yZOw15+Y/NSyVLsBXwOT1IROIUWtAbdIRY1NqYltKs2XnuTzY4NtsGsUOxt1mywppKxh7KPnmmg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\small\\Source\\Repos\\szoft_dio8z4\\VillogoGomb\\WinFormsApp1\\WinFormsApp1.csproj",
+>>>>>>> 49bdfcbfec58ff04bcbb682fc75c7a2fd9b4712b
+  "expectedPackageFiles": [],
+  "logs": []
+}
