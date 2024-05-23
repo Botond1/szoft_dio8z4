@@ -1,0 +1,16 @@
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\Akasztofa.Form1.resources
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\Akasztofa.csproj.GenerateResource.cache
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\Akasztofa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\Akasztofa.AssemblyInfoInputs.cache
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\Akasztofa.AssemblyInfo.cs
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\Akasztofa.csproj.CoreCompileInputs.cache
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\bin\Debug\net6.0-windows\Akasztofa.exe
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\bin\Debug\net6.0-windows\Akasztofa.deps.json
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\bin\Debug\net6.0-windows\Akasztofa.runtimeconfig.json
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\bin\Debug\net6.0-windows\Akasztofa.dll
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\bin\Debug\net6.0-windows\Akasztofa.pdb
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\Akasztofa.dll
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\refint\Akasztofa.dll
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\Akasztofa.pdb
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\Akasztofa.genruntimeconfig.cache
+C:\Users\small\Documents\git\Akasztofa\Akasztofa\obj\Debug\net6.0-windows\ref\Akasztofa.dll
