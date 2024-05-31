@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\small\\Documents\\git\\11hetgyak\\11hetgyak\\11hetgyak.csproj": {}
+    "C:\\Users\\dio8z4\\source\\repos\\szoft_dio8z4\\11hetgyak\\11hetgyak\\11hetgyak.csproj": {}
   },
   "projects": {
-    "C:\\Users\\small\\Documents\\git\\11hetgyak\\11hetgyak\\11hetgyak.csproj": {
+    "C:\\Users\\dio8z4\\source\\repos\\szoft_dio8z4\\11hetgyak\\11hetgyak\\11hetgyak.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\small\\Documents\\git\\11hetgyak\\11hetgyak\\11hetgyak.csproj",
+        "projectUniqueName": "C:\\Users\\dio8z4\\source\\repos\\szoft_dio8z4\\11hetgyak\\11hetgyak\\11hetgyak.csproj",
         "projectName": "11hetgyak",
-        "projectPath": "C:\\Users\\small\\Documents\\git\\11hetgyak\\11hetgyak\\11hetgyak.csproj",
-        "packagesPath": "C:\\Users\\small\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\small\\Documents\\git\\11hetgyak\\11hetgyak\\obj\\",
+        "projectPath": "C:\\Users\\dio8z4\\source\\repos\\szoft_dio8z4\\11hetgyak\\11hetgyak\\11hetgyak.csproj",
+        "packagesPath": "C:\\Users\\dio8z4\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\dio8z4\\source\\repos\\szoft_dio8z4\\11hetgyak\\11hetgyak\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\small\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\dio8z4\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -70,7 +70,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }
